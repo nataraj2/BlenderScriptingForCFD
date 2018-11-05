@@ -6,7 +6,7 @@ corresponding to a convecting water bubble. The script loops through these files
 and creates and saves the render images. To run this code, do the following in 
 the command line in this directory.
 
-blender --background --python BlenderScripting.py
+blender --background --python BlenderCyclesTest.py
 
 This will create 5 images in this directory.
 
