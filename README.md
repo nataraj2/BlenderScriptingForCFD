@@ -8,6 +8,7 @@ through these files  and creates and saves the render images. To run this code,
 do the following in the command line in this directory.
 
 <path_to_blender_exec> --background --python BlenderCyclesTest.py
+
 <path_to_blender_exec> will look like for eg. ./blender.app/Contents/MacOS/blender
 
 This will create 5 images in this directory.
