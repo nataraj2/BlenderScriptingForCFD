@@ -1,6 +1,6 @@
-This repo demonstrates the python scripting in Blender Cycles Render.
+This repo demonstrates the Python scripting in Blender Cycles Render.
 It shows how to create multiple materials and shade them differently,
-and render them using a python script that can be run from the command line
+and render them using a Python script that can be run from the command line
 in the background. This is a ready to run code. It has 5 .stl mesh files
 corresponding to a convecting water bubble. The script loops through these files 
 and creates and saves the render images. To run this code, do the following in 
@@ -16,7 +16,7 @@ The basic idea is to create a scene using the blender GUI - load a single .stl
 file in the blender GUI, and set the background, camera angle and lighting for the 
 scene. Make sure that the render looks the way you want. Then delete the object 
 (here it is the water drop), and save the scene as a .blend file (Here it is
-DropScene.blend). The python script will load the .blend file, and the object 
+DropScene.blend). The Python script will load the .blend file, and the object 
 (the moving water drop) will be loaded inside the for loop in the python script.
 
 
