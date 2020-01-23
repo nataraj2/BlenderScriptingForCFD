@@ -1,4 +1,4 @@
-# A ready-to-run script for Blender Cycles Render
+# A ready-to-run script for Blender Cycles Render v2.70
 This repo demonstrates the Python scripting in Blender Cycles Render for 
 blender v2.70. It shows how to create multiple materials and shade them 
 differently, and render them using a Python script that can be run from 
