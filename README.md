@@ -13,7 +13,7 @@ do the following in the command line in this directory.
 
 This will create 5 images in this directory.
 
-HOW IT WORKS
+## How it works
 
 The basic idea is to create a scene using the blender GUI - load a single .stl
 file in the blender GUI, and set the background, camera angle and lighting for the 
