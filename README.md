@@ -1,6 +1,6 @@
-# A ready-to-run script for Blender Cycles Render v2.70
+# A ready-to-run script for Blender Cycles Render v2.78
 This repo demonstrates the Python scripting in Blender Cycles Render for 
-blender v2.70. It shows how to create multiple materials and shade them 
+blender v2.78. It shows how to create multiple materials and shade them 
 differently, and render them using a Python script that can be run from 
 the command line in the background. This is a ready to run code. It has 
 5 .stl mesh files corresponding to a convecting water bubble. The script loops 
